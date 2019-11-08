@@ -55,7 +55,7 @@ Consumidor recibiendo el mensaje
 
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/A7.PNG)
 
-- Configuracion de un nuevo service Group que permita tener los puertos abiertos para la conexion
+- Configuracion de un nuevo service Group que permita tener los puertos abiertos para la conexion, la idea es dejar abierto el puerto 61616 para la conexion
 
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/A8.PNG)
 
