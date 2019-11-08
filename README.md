@@ -55,6 +55,8 @@ Consumidor recibiendo el mensaje
 
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/A7.PNG)
 
+- Configuracion de un nuevo service Group que permita tener los puertos abiertos para la conexion
+
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/A8.PNG)
 
 - Resultados de la ejecucion sobre el servicio de AWS
