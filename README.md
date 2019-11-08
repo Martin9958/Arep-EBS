@@ -28,11 +28,15 @@ Para el taller usted debe seguir los pasos siguientes:
 ## Arquitectura Implementada
 
 ## Imagenes del Resultado
+
 - Resultados de la ejecucion en Local
+
 Productor enviando el mensaje
+
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/A9.PNG)
 
 Consumidor recibiendo el mensaje
+
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/A10.PNG)
 
 - Proceso de configuracion en EC2 servicio de AWS
