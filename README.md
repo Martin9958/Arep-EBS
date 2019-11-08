@@ -65,3 +65,11 @@ Consumidor recibiendo el mensaje
 
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/A12.PNG)
 
+## Autor
+- Andres Martin Cantor Urrego
+
+## Conocimientos
+- Maven y git
+- Java
+- AWS (EC2)
+- Configuracion de Instancias y Grupos de seguridad en EC2
