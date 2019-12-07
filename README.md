@@ -23,7 +23,8 @@ Para el taller usted debe seguir los pasos siguientes:
 - Instale service mix en AWS, y conéctese usando el cliente.
 - Construya un artículo corto ( 4 páginas) con la Arquitectura de Service Mix y la arquitectura del ejemplo que acaba de desarrollar.
 
-## Arquitectura de ServiceMix 
+## Arquitectura de ServiceMix
+![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/servicemix.png)
 
 ## Arquitectura Implementada
 ![](github.com/Martin9958/Arep-EBS/blob/master/imagenes/modelo.png)
