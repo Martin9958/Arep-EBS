@@ -27,7 +27,7 @@ Para el taller usted debe seguir los pasos siguientes:
 ![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/servicemix.png)
 
 ## Arquitectura Implementada
-![](github.com/Martin9958/Arep-EBS/blob/master/imagenes/modelo.png)
+![](https://github.com/Martin9958/Arep-EBS/blob/master/imagenes/modelo.png)
 
 ## Imagenes del Resultado
 
