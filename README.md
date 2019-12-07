@@ -26,6 +26,7 @@ Para el taller usted debe seguir los pasos siguientes:
 ## Arquitectura de ServiceMix 
 
 ## Arquitectura Implementada
+![](github.com/Martin9958/Arep-EBS/blob/master/imagenes/modelo.png)
 
 ## Imagenes del Resultado
 
